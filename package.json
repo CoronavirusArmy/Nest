@@ -1,0 +1,9 @@
+{
+  "name": "Nest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CoronavirusArmy/Nest.git",
+  "author": "Coronavirus Army",
+  "license": "MIT",
+  "description": "Self-quaratine room locator."
+}
