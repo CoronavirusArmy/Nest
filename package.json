@@ -1,0 +1,19 @@
+{
+  "name": "Nest",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "https://github.com/CoronavirusArmy/Nest.git",
+  "author": "Coronavirus Army",
+  "license": "MIT",
+  "description": "Self-quaratine room locator.",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1"
+  }
+}
